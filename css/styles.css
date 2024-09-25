@@ -1,0 +1,12 @@
+body{
+    font-family: serif; /*lettertype instellen*/
+    background-color: gold;
+}
+
+h1 {
+    font-size: 4rem; /*grootte*/
+}
+
+.sprong{
+    margin-left: 40px;
+}
